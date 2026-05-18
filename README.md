@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/27951331/README.2.md)
 # Draw Hunter 3000 ⚽
 
 ### A Specialised Random Forest Classifier for Predicting Football Draws
